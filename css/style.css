@@ -60,3 +60,16 @@ section#latest .overlay i {
     transition: all .6s;
     opacity: 0;
 }
+
+#hero {
+    margin-top: 4.5rem;
+}
+
+.navbar-nav {
+    flex-direction: row;
+    justify-content: center;
+}
+
+.navbar-nav .nav-item {
+    padding-left: 20px;
+}
